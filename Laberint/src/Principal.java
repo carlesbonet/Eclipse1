@@ -20,6 +20,7 @@ public class Principal {
 		Principal joc = new Principal();
 		joc.bucleJoc();
 		//comentem el bucle principal
+		System.out.print("Final");
 		
 	}	
 	public void bucleJoc(){
